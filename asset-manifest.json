@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/random-quote-generator/static/css/main.0e96480a.chunk.css",
+    "main.js": "/random-quote-generator/static/js/main.2a846129.chunk.js",
+    "runtime-main.js": "/random-quote-generator/static/js/runtime-main.79550a2f.js",
+    "static/css/2.0d96313a.chunk.css": "/random-quote-generator/static/css/2.0d96313a.chunk.css",
+    "static/js/2.aea973af.chunk.js": "/random-quote-generator/static/js/2.aea973af.chunk.js",
+    "static/js/3.66251f08.chunk.js": "/random-quote-generator/static/js/3.66251f08.chunk.js",
+    "index.html": "/random-quote-generator/index.html",
+    "static/js/2.aea973af.chunk.js.LICENSE.txt": "/random-quote-generator/static/js/2.aea973af.chunk.js.LICENSE.txt",
+    "static/media/denwa-logo300.bf963a74.webp": "/random-quote-generator/static/media/denwa-logo300.bf963a74.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79550a2f.js",
+    "static/css/2.0d96313a.chunk.css",
+    "static/js/2.aea973af.chunk.js",
+    "static/css/main.0e96480a.chunk.css",
+    "static/js/main.2a846129.chunk.js"
+  ]
+}
